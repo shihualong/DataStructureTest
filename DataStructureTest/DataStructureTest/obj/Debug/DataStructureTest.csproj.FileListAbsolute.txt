@@ -7,3 +7,6 @@ C:\Users\Administrator\documents\visual studio 2015\Projects\DataStructureTest\D
 C:\Users\Administrator\Desktop\DataStructureTest\DataStructureTest\DataStructureTest\bin\Debug\DataStructureTest.exe.config
 C:\Users\Administrator\Desktop\DataStructureTest\DataStructureTest\DataStructureTest\obj\Debug\DataStructureTest.exe
 C:\Users\Administrator\Desktop\DataStructureTest\DataStructureTest\DataStructureTest\obj\Debug\DataStructureTest.pdb
+C:\Users\Administrator\Desktop\DataStructureTest\DataStructureTest\DataStructureTest\bin\Debug\DataStructureTest.exe
+C:\Users\Administrator\Desktop\DataStructureTest\DataStructureTest\DataStructureTest\bin\Debug\DataStructureTest.pdb
+C:\Users\Administrator\Desktop\DataStructureTest\DataStructureTest\DataStructureTest\obj\Debug\DataStructureTest.csprojResolveAssemblyReference.cache
